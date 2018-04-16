@@ -1,0 +1,187 @@
+/*清楚浏览器默认样式*/
+body {
+  line-height: 1.666;
+  color: #666;
+  font-size: 12px;
+}
+
+body, input {
+  font-family: "verdana ";
+}
+
+body, h1, h2, h3, h4, h5, h6, ul, ol, li, p, dl, dt, dd, table, th, td {
+  margin: 0;
+  padding: 0
+}
+
+table, th, td, img {
+  border: 0
+}
+
+em, i, th {
+  font-style: normal;
+  text-decoration: none
+}
+
+strong, b {
+  font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6, th {
+  font-size: 100%;
+  font-weight: normal
+}
+
+input, select, button, textarea, table {
+  margin: 0;
+  font-family: inherit;
+  font-size: 100%
+}
+
+input, button, select {
+  outline: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th, caption {
+  text-align: left;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
+
+select {
+  background-color: #fff;
+}
+
+@media screen and (min-width: 320px) {
+  html {
+    font-size: 25.7649px
+  }
+}
+
+@media screen and (min-width: 375px) {
+  html {
+    font-size: 30.19324px
+  }
+}
+
+@media screen and (min-width: 384px) {
+  html {
+    font-size: 30.91787px
+  }
+}
+
+@media screen and (min-width: 412px) {
+  html {
+    font-size: 33.1723px
+  }
+}
+
+@media screen and (min-width: 414px) {
+  html {
+    font-size: 33.33333px
+  }
+}
+
+@media screen and (min-width: 460px) {
+  html {
+    font-size: 37.03704px
+  }
+}
+
+@media screen and (min-width: 480px) {
+  html {
+    font-size: 38.64734px
+  }
+}
+
+@media screen and (min-width: 540px) {
+  html {
+    font-size: 43.47826px
+  }
+}
+
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 51.52979px
+  }
+}
+
+@media screen and (min-width: 720px) {
+  html {
+    font-size: 57.97101px
+  }
+}
+
+@media screen and (min-width: 740px) {
+  html {
+    font-size: 59.58132px
+  }
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: 61.83575px
+  }
+}
+
+@media screen and (min-width: 800px) {
+  html {
+    font-size: 64.41224px
+  }
+}
+
+@media screen and (min-width: 960px) {
+  html {
+    font-size: 77.29469px
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  html {
+    font-size: 86.95652px
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  html {
+    font-size: 82.44767px
+  }
+}
+
+@media screen and (min-width: 1242px) {
+  html {
+    font-size: 100px
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  html {
+    font-size: 103.05958px
+  }
+}
+
+@media screen and (min-width: 1536px) {
+  html {
+    font-size: 123.6715px
+  }
+}
+
+@media screen and (min-width: 2048px) {
+  html {
+    font-size: 164.89533px
+  }
+}

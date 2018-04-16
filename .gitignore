@@ -1,0 +1,21 @@
+.DS_Store
+nodqweqwee_m12312312odules/
+node_modules/
+dist/
+mobile/
+npm-desrbug.log*
+yarn-debug.log*
+yarn-error.log*
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+*.zip
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+12312312312ASDFFsdfdfsasdfasdf

@@ -1,0 +1,40 @@
+.u-right {
+  float: right;
+}
+
+.u-left-block {
+  float: left;
+  height: 100%;
+}
+
+.u-left {
+  float: left;
+}
+
+.c-red {
+  color: #f51322;
+}
+
+.c-333 {
+  color: #333;
+}
+
+.c-999 {
+  color: #999;
+}
+
+.c-eee {
+  color: #ccc;
+}
+
+.c-blue {
+  color: #1c8de0;
+}
+
+.el-message-box {
+  width: 80%;
+}
+
+.el-message {
+  margin-top: 100px;
+}
