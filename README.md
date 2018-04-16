@@ -1,7 +1,8 @@
 # app
 
 > A Vue.js AppShop
-
+  线上地址：mobile.lara-shop.cn
+  多商家版: mobile.laravel-world.com 
 ## Build Setup
 
 ## t/l/s
